@@ -1,4 +1,4 @@
-hey; i like cpp
+hey; i like cpp and ai sometimes
 
 
 [![Birb12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Birb12&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
